@@ -127,8 +127,9 @@ BOTSWANA_EFI_PLATFORM/
 │   Project dependencies
 │
 └── README.md
-    Project documentatio
----
+    Project documentation
+```
+
 
 ## Getting Started
 
