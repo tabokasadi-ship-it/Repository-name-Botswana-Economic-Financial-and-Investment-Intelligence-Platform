@@ -1,38 +1,53 @@
-# 🇧🇼 Botswana Economic, Financial and Investment Intelligence Platform
+# Botswana Economic, Financial and Investment Intelligence Platform
 
 > *Transforming raw economic data into actionable intelligence for policymakers, investors, researchers, and decision-makers.*
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The **Botswana Economic, Financial and Investment Intelligence Platform** is an integrated Business Intelligence and Economic Intelligence system developed to move beyond traditional economic reporting.
 
-Using data sourced from **Statistics Botswana**, the platform combines economic performance analysis, shock intelligence, diversification monitoring, opportunity assessment, resilience measurement, and forecasting capabilities into a unified decision-support system.
+Using data sourced from **Statistics Botswana**, the platform integrates economic performance monitoring, diversification analysis, vulnerability assessment, resilience measurement, forecasting, and executive intelligence generation into a single decision-support ecosystem.
 
-By applying **Business Intelligence methodologies**, this platform converts raw economic data into strategic intelligence capable of supporting **evidence-based decision-making** at national and sectoral levels.
+The platform was designed to bridge the gap between traditional economic reporting and strategic economic intelligence by transforming economic data into actionable insights capable of supporting policy formulation, investment evaluation, economic planning, and risk management.
 
 ---
 
-## ✨ Key Features
+## Platform Capabilities
+
+- 10+ Economic Intelligence Dashboards
+- 6 Composite Economic Indicators
+- Economic Health Scoring Framework
+- Economic Resilience Index
+- Economic Wellbeing Score
+- Economic Early Warning System
+- Forecasting & Scenario Simulation Engine
+- Interactive Executive Briefings
+- Sector Opportunity Analysis
+- Shock & Vulnerability Intelligence
+
+---
+
+## Key Features
 
 | Feature | Description |
 |---|---|
-| 📈 GDP Performance Intelligence | Track and analyse Botswana's GDP growth trends across sectors |
-| ⚡ Economic Shock & Vulnerability Intelligence | Identify and monitor economic shocks and structural vulnerabilities |
-| 🏥 Economic Health Score | Composite index measuring overall economic health |
-| 🔄 Diversification & Transformation Intelligence | Monitor progress away from diamond dependency |
-| 🎯 Sector Opportunity Matrix | Identify high-growth sectors and investment opportunities |
-| ⚠️ Opportunity & Risk Assessment | Assess risks and opportunities across economic indicators |
-| 🛡️ Economic Resilience Index | Measure Botswana's capacity to absorb and recover from shocks |
-| 🔮 Economic Forecast Centre | Forward-looking economic projections and scenario planning |
-| 📊 Forecast Confidence Analysis | Confidence intervals and uncertainty analysis for forecasts |
-| 🌐 Future Economic Scenario Simulation | Simulate alternative economic futures and stress-test assumptions |
-| 💼 Executive Economic Insights | High-level intelligence summaries for strategic decision-makers |
+| GDP Performance Intelligence | Track and analyse Botswana's GDP growth trends across sectors |
+| Economic Shock & Vulnerability Intelligence | Identify and monitor economic shocks and structural vulnerabilities |
+| Economic Health Score | Composite index measuring overall economic health |
+| Diversification & Transformation Intelligence | Monitor progress away from diamond dependency |
+| Sector Opportunity Matrix | Identify high-growth sectors and investment opportunities |
+| Opportunity & Risk Assessment | Assess risks and opportunities across economic indicators |
+| Economic Resilience Index | Measure Botswana's capacity to absorb and recover from shocks |
+| Economic Forecast Centre | Forward-looking economic projections and scenario planning |
+| Forecast Confidence Analysis | Confidence intervals and uncertainty analysis for forecasts |
+| Future Economic Scenario Simulation | Simulate alternative economic futures and stress-test assumptions |
+| Executive Economic Insights | High-level intelligence summaries for strategic decision-makers |
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -49,7 +64,7 @@ By applying **Business Intelligence methodologies**, this platform converts raw 
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 To develop an integrated **Economic Intelligence Platform** capable of:
 
@@ -60,10 +75,24 @@ To develop an integrated **Economic Intelligence Platform** capable of:
 
 ---
 
-## 📁 Project Structure
+## Business Value
+
+The platform enables decision-makers to:
+
+- Monitor economic performance through intelligence-driven dashboards
+- Identify emerging economic risks before they become critical
+- Evaluate diversification progress and structural transformation
+- Assess investment opportunities across sectors
+- Forecast future economic conditions using scenario-based analysis
+- Support evidence-based policy formulation and strategic planning
+
 ---
 
-## 🚀 Getting Started
+## Project Structure
+
+---
+
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -77,16 +106,14 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
+## Author
 
 **Taboka Abaleng Mpatane**
-BSc (Hons) Business Intelligence & Data Analytics — University of Sunderland
+Aspiring Economic Intelligence Analyst | Business Intelligence Developer | Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taboka-abaleng-mpatane-8b830a2a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tabokasadi-ship-it)
 
-*Economic Intelligence | Forecasting | Risk Analytics | Business Intelligence | Data Analytics*
+*Economic Intelligence · Forecasting · Risk Analytics · Business Intelligence · Data Analytics*
 
 ---
-
-> ⭐ If you find this project useful, please consider giving it a star!
