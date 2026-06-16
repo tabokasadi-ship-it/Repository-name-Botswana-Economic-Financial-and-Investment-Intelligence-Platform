@@ -89,9 +89,7 @@ The platform enables decision-makers to:
 ---
 
 ## Project Structure
-## Project Structure
 
-```text
 BOTSWANA_EFI_PLATFORM/
 │
 ├── app.py
@@ -128,7 +126,6 @@ BOTSWANA_EFI_PLATFORM/
 │
 └── README.md
     Project documentation
-```
 
 ---
 
