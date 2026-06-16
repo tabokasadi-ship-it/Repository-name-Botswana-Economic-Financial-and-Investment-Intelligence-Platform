@@ -1,0 +1,2 @@
+# Repository-name-Botswana-Economic-Financial-and-Investment-Intelligence-Platform
+Botswana Economic Growth Intelligence Dashboard – A Business Intelligence and Economic Intelligence platform that transforms Statistics Botswana data into interactive dashboards, economic health scores, resilience indices, diversification analysis, shock intelligence, and GDP forecasts to support evidence-based decision-making
