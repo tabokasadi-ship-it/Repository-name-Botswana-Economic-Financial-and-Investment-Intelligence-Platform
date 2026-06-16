@@ -89,6 +89,8 @@ The platform enables decision-makers to:
 ---
 
 ## Project Structure
+## Project Structure
+
 ```text
 BOTSWANA_EFI_PLATFORM/
 │
@@ -128,6 +130,7 @@ BOTSWANA_EFI_PLATFORM/
     Project documentation
 ```
 
+---
 
 ## Getting Started
 
