@@ -89,7 +89,45 @@ The platform enables decision-makers to:
 ---
 
 ## Project Structure
+## 📁 Project Structure
 
+```text
+BOTSWANA_EFI_PLATFORM/
+│
+├── app.py
+│   Main application entry point
+│
+├── dashboards/
+│   ├── economic_growth.py
+│   ├── economic_health.py
+│   ├── economic_shocks.py
+│   ├── diversification.py
+│   ├── resilience.py
+│   ├── forecasting.py
+│   ├── cost_of_living.py
+│   └── labour_market.py
+│
+├── data/
+│   ├── raw/
+│   │   Statistics Botswana datasets
+│   └── processed/
+│       Cleaned and transformed datasets
+│
+├── assets/
+│   ├── screenshots/
+│   ├── images/
+│   └── logos/
+│
+├── documentation/
+│   ├── Technical_Report.pdf
+│   ├── Methodology.pdf
+│   └── User_Guide.pdf
+│
+├── requirements.txt
+│   Project dependencies
+│
+└── README.md
+    Project documentatio
 ---
 
 ## Getting Started
