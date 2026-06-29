@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am an economic data analyst and business intelligence researcher working at the intersection of economics, finance, and data. My work spans macroeconomic analysis, financial intelligence, business intelligence development, and data engineering — with a focus on building integrated analytical platforms that transform complex datasets into structured, actionable intelligence.
+I am an aspiring data analyst working at the intersection of economics, finance, banking, business and data. My work spans macroeconomic analysis, financial intelligence, business intelligence development, and data engineering with a focus on building integrated analytical platforms that transform complex datasets into structured, actionable intelligence.
 
 I am passionate about applying data analytics and BI techniques to real-world economic and financial challenges, from monitoring macroeconomic performance and assessing economic resilience, to supporting investment decisions, banking analysis, and evidence-based policy development. My goal is to bridge the gap between raw economic and financial data and the strategic decisions that depend on it.
 
@@ -39,39 +39,6 @@ I am passionate about applying data analytics and BI techniques to real-world ec
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![EViews](https://img.shields.io/badge/EViews-003366?style=for-the-badge&logoColor=white)
 
-**Methods & Techniques**
-
-| Area | Methods |
-|---|---|
-| **Economic Analysis** | GDP trend analysis, sector decomposition, growth accounting |
-| **Forecasting** | Time series forecasting, scenario analysis, predictive modelling |
-| **Risk & Resilience** | Economic shock analysis, resilience indexing, vulnerability assessment |
-| **BI & Dashboards** | Indicator development, KPI frameworks, decision support systems |
-| **Statistics** | Descriptive & diagnostic analytics, composite index construction |
-
----
-
-## 📂 Featured Projects
-
-### 🇧🇼 [Botswana Economic Growth Intelligence Dashboard](https://github.com/tabokasadi-ship-it/botswana-economic-dashboard)
-> An integrated business intelligence platform for monitoring, analysing, and forecasting Botswana's economic performance.
-
-- **Domain:** Macroeconomics | Business Intelligence | Economic Policy
-- **Data Source:** Statistics Botswana — National Accounts & Sectoral GDP (2015–2025)
-- **Tools:** Python, Excel
-- **Scope:** 10 interconnected intelligence modules including GDP Performance, Economic Health, Shock & Resilience Intelligence, Sector Opportunity Assessment, Forecasting & Scenario Analysis, and an Economic Early Warning System
-- **Key Findings:**
-  - Estimated Botswana's Economic Health Score at **60.8/100** — vulnerable but stable
-  - Economic Resilience Index at **72/100**, indicating moderate capacity to absorb external shocks
-  - Identified diamond sector dependence and global commodity exposure as primary structural risks
-  - Forecasting model projects gradual economic recovery between **2026–2028**, contingent on diversification progress
-- **Audience:** Policy makers, financial institutions, investors, researchers
-
----
-
-*More projects coming soon.*
-
----
 
 ## 🚀 Areas of Interest
 
