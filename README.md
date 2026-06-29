@@ -1,7 +1,8 @@
 <div align="center">
 
 # Taboka Abaleng Mpatane
-### Aspiring Economic Intelligence Analyst | Business Intelligence Developer | Data Analyst
+### Aspiring Economic Intelligence Analyst | BI Developer | Data Analyst & Engineer
+### Economics • Finance • Banking • Business Intelligence • Data Engineering
 
 *Transforming complex economic data into actionable intelligence*
 
@@ -15,12 +16,11 @@
 
 ## About Me
 
-I am an economic data analyst and business intelligence researcher specialising in macroeconomic analysis, economic performance monitoring, and data-driven decision support. My work focuses on translating large volumes of economic data into structured analytical platforms that support policy makers, investors, financial institutions, and researchers in making evidence-based decisions.
+I am an economic data analyst and business intelligence researcher working at the intersection of economics, finance, and data. My work spans macroeconomic analysis, financial intelligence, business intelligence development, and data engineering — with a focus on building integrated analytical platforms that transform complex datasets into structured, actionable intelligence.
 
-I combine quantitative economic analysis with business intelligence techniques to build dashboards, economic indicators, and forecasting models — primarily applied to African and emerging market contexts.
+I am passionate about applying data analytics and BI techniques to real-world economic and financial challenges, from monitoring macroeconomic performance and assessing economic resilience, to supporting investment decisions, banking analysis, and evidence-based policy development. My goal is to bridge the gap between raw economic and financial data and the strategic decisions that depend on it.
 
 - 🌍 Based in **Botswana**
-- 🔎 Specialisation: **Macroeconomic Intelligence, BI Dashboards, Economic Forecasting**
 - 📫 Reach me at **tabokaabalengmpatane@gmail.com**
 
 ---
@@ -73,19 +73,24 @@ I combine quantitative economic analysis with business intelligence techniques t
 
 ---
 
-## 📊 Areas of Focus
+## 🚀 Areas of Interest
 
-- **Macroeconomic Monitoring** — GDP dynamics, sectoral performance, structural economic change
-- **Economic Intelligence Platforms** — Centralised dashboards integrating multiple economic indicators
-- **Forecasting & Scenario Analysis** — Short to medium-term economic outlooks and stress testing
-- **Risk & Vulnerability Assessment** — Economic shock identification, resilience measurement, early warning systems
-- **African & Emerging Market Economics** — Applied economic research within developing economy contexts
+* 📊 Business Intelligence
+* 📈 Economic Intelligence
+* 💹 Financial & Investment Analytics
+* 🔮 Forecasting & Predictive Analytics
+* ⚠️ Risk Analytics
+* 🏦 Banking Analytics
+* 🏛️ Public Sector Analytics
+* 🛠️ Data Engineering
+* 📉 Economic Modelling
+* 📋 Executive Decision Support Systems
 
 ---
 
 ## 🌐 Connect
 
-I am open to collaboration on economic research, data analytics projects, and business intelligence initiatives — particularly those focused on African economies and development economics.
+I am open to collaboration on economic research, financial analysis, data analytics, and business intelligence projects — particularly those focused on African economies, financial systems, and development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taboka-abaleng-mpatane-8b830a2a3/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabokaabalengmpatane@gmail.com)
