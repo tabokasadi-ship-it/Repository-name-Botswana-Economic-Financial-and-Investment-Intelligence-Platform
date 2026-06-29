@@ -2,7 +2,7 @@
 
 # Taboka Abaleng Mpatane
 ### Aspiring Economic Intelligence Analyst | BI Developer | Data Analyst & Engineer
-### Economics • Finance • Banking • Business Intelligence • Data Engineering
+### Economics • Finance • Banking • Business Intelligence • Data Analytics & Engineering
 
 *Transforming complex economic data into actionable intelligence*
 
