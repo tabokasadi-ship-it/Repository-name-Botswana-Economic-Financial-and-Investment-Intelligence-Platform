@@ -1,156 +1,97 @@
-# Botswana Economic, Financial and Investment Intelligence Platform
+<div align="center">
 
-> *Transforming raw economic data into actionable intelligence for policymakers, investors, researchers, and decision-makers.*
+# Taboka Abaleng Mpatane
+### Aspiring Economic Intelligence Analyst | Business Intelligence Developer | Data Analyst
 
----
-
-## Project Overview
-
-The **Botswana Economic, Financial and Investment Intelligence Platform** is an integrated Business Intelligence and Economic Intelligence system developed to move beyond traditional economic reporting.
-
-Using data sourced from **Statistics Botswana**, the platform integrates economic performance monitoring, diversification analysis, vulnerability assessment, resilience measurement, forecasting, and executive intelligence generation into a single decision-support ecosystem.
-
-The platform was designed to bridge the gap between traditional economic reporting and strategic economic intelligence by transforming economic data into actionable insights capable of supporting policy formulation, investment evaluation, economic planning, and risk management.
-
----
-
-## Platform Capabilities
-
-- 10+ Economic Intelligence Dashboards
-- 6 Composite Economic Indicators
-- Economic Health Scoring Framework
-- Economic Resilience Index
-- Economic Wellbeing Score
-- Economic Early Warning System
-- Forecasting & Scenario Simulation Engine
-- Interactive Executive Briefings
-- Sector Opportunity Analysis
-- Shock & Vulnerability Intelligence
-
----
-
-## Key Features
-
-| Feature | Description |
-|---|---|
-| GDP Performance Intelligence | Track and analyse Botswana's GDP growth trends across sectors |
-| Economic Shock & Vulnerability Intelligence | Identify and monitor economic shocks and structural vulnerabilities |
-| Economic Health Score | Composite index measuring overall economic health |
-| Diversification & Transformation Intelligence | Monitor progress away from diamond dependency |
-| Sector Opportunity Matrix | Identify high-growth sectors and investment opportunities |
-| Opportunity & Risk Assessment | Assess risks and opportunities across economic indicators |
-| Economic Resilience Index | Measure Botswana's capacity to absorb and recover from shocks |
-| Economic Forecast Centre | Forward-looking economic projections and scenario planning |
-| Forecast Confidence Analysis | Confidence intervals and uncertainty analysis for forecasts |
-| Future Economic Scenario Simulation | Simulate alternative economic futures and stress-test assumptions |
-| Executive Economic Insights | High-level intelligence summaries for strategic decision-makers |
-
----
-
-## Technologies Used
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-- **Python** — Core programming language
-- **Streamlit** — Interactive web application framework
-- **Pandas** — Data manipulation and analysis
-- **NumPy** — Numerical computing and statistical operations
-- **Plotly** — Interactive data visualisations and dashboards
-- **Statistics Botswana** — Primary data source
-
----
-
-## Project Objective
-
-To develop an integrated **Economic Intelligence Platform** capable of:
-
-- Monitoring Botswana's economic performance across key indicators
-- Identifying emerging economic risks and strategic opportunities
-- Forecasting future economic conditions with scenario simulation
-- Supporting strategic economic planning and evidence-based policy decisions
-
----
-
-## Business Value
-
-The platform enables decision-makers to:
-
-- Monitor economic performance through intelligence-driven dashboards
-- Identify emerging economic risks before they become critical
-- Evaluate diversification progress and structural transformation
-- Assess investment opportunities across sectors
-- Forecast future economic conditions using scenario-based analysis
-- Support evidence-based policy formulation and strategic planning
-
----
-
-## Project Structure
-
-BOTSWANA_EFI_PLATFORM/
-│
-├── app.py
-│   Main application entry point
-│
-├── dashboards/
-│   ├── economic_growth.py
-│   ├── economic_health.py
-│   ├── economic_shocks.py
-│   ├── diversification.py
-│   ├── resilience.py
-│   ├── forecasting.py
-│   ├── cost_of_living.py
-│   └── labour_market.py
-│
-├── data/
-│   ├── raw/
-│   │   Statistics Botswana datasets
-│   └── processed/
-│       Cleaned and transformed datasets
-│
-├── assets/
-│   ├── screenshots/
-│   ├── images/
-│   └── logos/
-│
-├── documentation/
-│   ├── Technical_Report.pdf
-│   ├── Methodology.pdf
-│   └── User_Guide.pdf
-│
-├── requirements.txt
-│   Project dependencies
-│
-└── README.md
-    Project documentation
-
----
-
-## Getting Started
-
-### Prerequisites
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Application
-```bash
-streamlit run app.py
-```
-
----
-
-## Author
-
-**Taboka Abaleng Mpatane**
-Aspiring Economic Intelligence Analyst | Business Intelligence Developer | Data Analyst
+*Transforming complex economic data into actionable intelligence*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taboka-abaleng-mpatane-8b830a2a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tabokasadi-ship-it)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabokaabalengmpatane@gmail.com)
 
-*Economic Intelligence · Forecasting · Risk Analytics · Business Intelligence · Data Analytics*
+</div>
 
 ---
+
+## About Me
+
+I am an economic data analyst and business intelligence researcher specialising in macroeconomic analysis, economic performance monitoring, and data-driven decision support. My work focuses on translating large volumes of economic data into structured analytical platforms that support policy makers, investors, financial institutions, and researchers in making evidence-based decisions.
+
+I combine quantitative economic analysis with business intelligence techniques to build dashboards, economic indicators, and forecasting models — primarily applied to African and emerging market contexts.
+
+- 🌍 Based in **Botswana**
+- 🔎 Specialisation: **Macroeconomic Intelligence, BI Dashboards, Economic Forecasting**
+- 📫 Reach me at **tabokaabalengmpatane@gmail.com**
+
+---
+
+## 🛠️ Tools & Skills
+
+**Primary Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Additional Experience**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![EViews](https://img.shields.io/badge/EViews-003366?style=for-the-badge&logoColor=white)
+
+**Methods & Techniques**
+
+| Area | Methods |
+|---|---|
+| **Economic Analysis** | GDP trend analysis, sector decomposition, growth accounting |
+| **Forecasting** | Time series forecasting, scenario analysis, predictive modelling |
+| **Risk & Resilience** | Economic shock analysis, resilience indexing, vulnerability assessment |
+| **BI & Dashboards** | Indicator development, KPI frameworks, decision support systems |
+| **Statistics** | Descriptive & diagnostic analytics, composite index construction |
+
+---
+
+## 📂 Featured Projects
+
+### 🇧🇼 [Botswana Economic Growth Intelligence Dashboard](https://github.com/tabokasadi-ship-it/botswana-economic-dashboard)
+> An integrated business intelligence platform for monitoring, analysing, and forecasting Botswana's economic performance.
+
+- **Domain:** Macroeconomics | Business Intelligence | Economic Policy
+- **Data Source:** Statistics Botswana — National Accounts & Sectoral GDP (2015–2025)
+- **Tools:** Python, Excel
+- **Scope:** 10 interconnected intelligence modules including GDP Performance, Economic Health, Shock & Resilience Intelligence, Sector Opportunity Assessment, Forecasting & Scenario Analysis, and an Economic Early Warning System
+- **Key Findings:**
+  - Estimated Botswana's Economic Health Score at **60.8/100** — vulnerable but stable
+  - Economic Resilience Index at **72/100**, indicating moderate capacity to absorb external shocks
+  - Identified diamond sector dependence and global commodity exposure as primary structural risks
+  - Forecasting model projects gradual economic recovery between **2026–2028**, contingent on diversification progress
+- **Audience:** Policy makers, financial institutions, investors, researchers
+
+---
+
+*More projects coming soon.*
+
+---
+
+## 📊 Areas of Focus
+
+- **Macroeconomic Monitoring** — GDP dynamics, sectoral performance, structural economic change
+- **Economic Intelligence Platforms** — Centralised dashboards integrating multiple economic indicators
+- **Forecasting & Scenario Analysis** — Short to medium-term economic outlooks and stress testing
+- **Risk & Vulnerability Assessment** — Economic shock identification, resilience measurement, early warning systems
+- **African & Emerging Market Economics** — Applied economic research within developing economy contexts
+
+---
+
+## 🌐 Connect
+
+I am open to collaboration on economic research, data analytics projects, and business intelligence initiatives — particularly those focused on African economies and development economics.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taboka-abaleng-mpatane-8b830a2a3/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabokaabalengmpatane@gmail.com)
+
+---
+
+<div align="center">
+<sub>"Without data, you're just another person with an opinion." — W. Edwards Deming</sub>
+</div>
