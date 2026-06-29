@@ -57,7 +57,7 @@ I am passionate about applying data analytics and BI techniques to real-world ec
 
 ## 🌐 Connect
 
-I am open to collaboration on economic research, financial analysis, data analytics, and business intelligence projects — particularly those focused on African economies, financial systems, and development.
+I am open to collaboration on economic research, financial analysis, data analytics, and business intelligence projects particularly those focused on economies, financial systems, and development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taboka-abaleng-mpatane-8b830a2a3/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabokaabalengmpatane@gmail.com)
